@@ -1,0 +1,8 @@
+---
+- import_playbook: basicSoftwareInstall.yml
+- import_playbook: sshd.yml
+- import_playbook: locale.yml
+- import_playbook: mysql_zabbix.yml 
+- import_playbook: timezone.yml
+
+
