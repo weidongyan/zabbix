@@ -4,5 +4,6 @@
 - import_playbook: locale.yml
 - import_playbook: mysql_zabbix.yml 
 - import_playbook: timezone.yml
+- import_playbook: zabbix_install.yml
 
 
